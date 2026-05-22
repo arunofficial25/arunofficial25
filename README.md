@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0f0f,50:1a1a2e,100:16213e&text=Arun%20Kumar%20Lodhi&fontAlign=50&fontAlignY=40&fontSize=48&fontColor=ffffff&desc=Data%20Analyst%20•%20Python%20Developer%20•%20Visualization%20Enthusiast&descAlign=50&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0f0f,50:1a1a2e,100:16213e&text=Arun&fontAlign=50&fontAlignY=40&fontSize=48&fontColor=ffffff&desc=Data%20Analyst%20•%20Python%20Developer%20•%20Visualization%20Enthusiast&descAlign=50&descAlignY=60" width="100%" />
 
 # Hey, I'm Arun 👋
 
