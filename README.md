@@ -95,6 +95,12 @@
 
 > Interactive portfolio with animations & modern UI.
 
+<div>
+    <a href="https://arunofficial25.vercel.app/">
+        <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
+    </a>
+</div>
+
 ---
 
 ## 📄 Research Papers
