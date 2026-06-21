@@ -41,21 +41,17 @@
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 GitHub Insights
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=arunofficial25&theme=tokyonight&hide border=true&background=0D1117" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arunofficial25&theme=tokyonight" />
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arunofficial25&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arunofficial25&theme=tokyonight" />
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arunofficial25&theme=tokyo-night&hide border=true&bg color=0d1117" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arunofficial25&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arunofficial25&theme=tokyonight&utcOffset=+5.5" />
 
 </div>
 
