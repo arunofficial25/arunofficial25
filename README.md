@@ -122,6 +122,9 @@
     <a href="https://github.com/arunofficial25" target=" blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
     </a>
+    <a href="https://linkedin.com/arunofficial25" target=" blank" rel="noopener noreferrer">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
+    </a>
     <a href="mailto:arunofficial 25@proton.me">
         <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
     </a>
